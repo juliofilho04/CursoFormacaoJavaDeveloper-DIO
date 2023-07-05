@@ -1,3 +1,2 @@
 # dio-java-basico
-Repositório para armazenar todos os códigos do curso - Java Básico
-muda pfv nunca pedi mds do ceu
+Espaço reservado para armazenar os códigos referentes ao Bootcamp Formação Java Developer
